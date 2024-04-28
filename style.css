@@ -1,0 +1,47 @@
+
+.navbar{
+    color: white;
+    background-color: #0e1012;
+}
+.color-teal{
+    color: teal;
+}
+.icon-lg{
+    font-size: 50px;
+}
+.remove-bullets{
+    text-decoration: none;
+}
+.remove-text-decoration{
+    list-style: none;
+}
+.display-2{
+    font-size: 50px;
+    font-weight: 500;
+}
+.display-6{
+    font-size: 30px;
+}
+p>a{
+    text-decoration: none;
+    color: black;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+header{
+    position: sticky;
+    top: -1px;
+}
+.abc,.bla{
+    box-shadow: 0 4px 6px 5px #0003,0 2px 4px -1px #0000000f;
+    padding: 15px;
+
+}
+#contribution,#education,#skills,#contact{
+    margin-top: 100px;
+}
+#project{
+    margin-top:220px;
+}
